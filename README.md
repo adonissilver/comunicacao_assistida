@@ -60,6 +60,7 @@ Vantagens:
 
 - Os sites que ajudaram a melhorar o aspecto do layout :
 https://www.flaticon.com/
+
 https://freeicons.io/
 
 
@@ -78,7 +79,9 @@ mecanismo de com unicação e esse recurso facilita a expressão de suas necessi
 
 Referências Bibliográficas:
 https://fcmsantacasasp.edu.br/campanha-pela-conscientizacao-da-comunicacao-alternativa/
+
 https://ez-keys.software.informer.com/
+
 https://www.tecmundo.com.br/ciencia/94279-high-tech-tecnologias-incriveis-cadeira-stephen-hawking.htm
 
 
