@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Comunicação Assistida</title>
+
+<link rel="stylesheet" href="style2.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Comunicação</h1>
+
+
+    <!-- Campo de mensagem -->
+
+    <div class="mensagem-box">
+
+        <input
+            id="mensagem"
+            type="text"
+            readonly
+            placeholder="Toque em um botão para falar..."
+        >
+
+        <div class="acoes">
+
+            <button id="btnFalar">
+
+                🔊 Falar
+
+            </button>
+
+
+            <button id="btnLimpar">
+
+                🗑 Limpar
+
+            </button>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- Sim / Não -->
+
+    <div class="simnao">
+
+        <button
+        class="sim"
+        onclick="enviarMensagem('Sim')">
+
+        SIM
+
+        </button>
+
+
+        <button
+        class="nao"
+        onclick="enviarMensagem('Não')">
+
+        NÃO
+
+        </button>
+
+    </div>
+
+
+
+    <!-- Favoritos -->
+
+    <div id="favoritos">
+
+        <h3>⭐ Favoritos</h3>
+
+        <div id="favoritosLista">
+
+        </div>
+
+    </div>
+
+
+
+    <p style="margin-bottom:15px;font-weight:bold;">
+
+        O que você precisa?
+
+    </p>
+
+
+
+
+    <!-- CARDS -->
+
+    <div id="home" class="cards">
+
+
+        <button onclick="enviarMensagem('Quero água')">
+
+            <div class="icone">
+
+                💧
+
+            </div>
+
+            <span>
+
+                Água
+
+            </span>
+
+        </button>
+
+
+
+
+        <button onclick="enviarMensagem('Preciso ir ao banheiro')">
+
+            <div class="icone">
+
+                🚽
+
+            </div>
+
+            <span>
+
+                Banheiro
+
+            </span>
+
+        </button>
+
+
+
+
+        <button onclick="enviarMensagem('Estou com dor')">
+
+            <div class="icone">
+
+                😖
+
+            </div>
+
+            <span>
+
+                Dor
+
+            </span>
+
+        </button>
+
+
+
+
+        <button onclick="enviarMensagem('Preciso de ajuda')">
+
+            <div class="icone">
+
+                ❤️
+
+            </div>
+
+            <span>
+
+                Ajuda
+
+            </span>
+
+        </button>
+
+
+
+
+        <button onclick="enviarMensagem('Quero falar com minha família')">
+
+            <div class="icone">
+
+                👨‍👩‍👧
+
+            </div>
+
+            <span>
+
+                Família
+
+            </span>
+
+        </button>
+
+
+
+
+        <button onclick="enviarMensagem('Estou com sintomas')">
+
+            <div class="icone">
+
+                🌡️
+
+            </div>
+
+            <span>
+
+                Sintomas
+
+            </span>
+
+        </button>
+
+
+
+
+        <button onclick="enviarMensagem('Obrigado')">
+
+            <div class="icone">
+
+                💬
+
+            </div>
+
+            <span>
+
+                Mensagens
+
+            </span>
+
+        </button>
+
+
+    </div>
+
+
+
+
+    <!-- HISTÓRICO -->
+
+    <div
+    id="historicoTela"
+    style="display:none; margin-top:20px;">
+
+        <h2>
+
+            Histórico
+
+        </h2>
+
+        <div
+        id="historicoLista">
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+
+
+<!-- Rodapé -->
+
+<footer>
+
+<button onclick="mostrarInicio()">
+
+🏠
+
+<span>
+
+Início
+
+</span>
+
+</button>
+
+
+
+<button onclick="mostrarHistorico()">
+
+🕒
+
+<span>
+
+Histórico
+
+</span>
+
+</button>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
