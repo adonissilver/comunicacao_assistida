@@ -59,6 +59,7 @@ Vantagens:
 - Menos esforço cognitivo
 
 - Os sites que ajudaram a melhorar o aspecto do layout :
+  
 https://www.flaticon.com/
 
 https://freeicons.io/
@@ -78,6 +79,7 @@ Apresente as melhorias observadas,
 mecanismo de com unicação e esse recurso facilita a expressão de suas necessidades.
 
 Referências Bibliográficas:
+
 https://fcmsantacasasp.edu.br/campanha-pela-conscientizacao-da-comunicacao-alternativa/
 
 https://ez-keys.software.informer.com/
