@@ -80,6 +80,8 @@ mecanismo de com unicação e esse recurso facilita a expressão de suas necessi
 
 Referências Bibliográficas:
 
+https://isaac-online.org/english/home/
+
 https://fcmsantacasasp.edu.br/campanha-pela-conscientizacao-da-comunicacao-alternativa/
 
 https://ez-keys.software.informer.com/
@@ -98,7 +100,11 @@ Por que é mais rápido: Em apenas 5 cliques, ele consegue encontrar qualquer le
 2. Teclados Preditivos de Fluxo Contínuo (Estilo Swipe/SwiftKey)
 Em vez de escolher letra por letra, o sistema tenta adivinhar o caminho da palavra.
 
-Como funciona: Existe um software de acessibilidade chamado Dasher. Nele, as letras da tela se movem em direção ao centro como se o usuário estivesse "dirigindo" por uma estrada de letras. Com um único músculo, Hawking poderia controlar se o fluxo vai para cima ou para baixo.
+Como funciona: Existe um software de acessibilidade chamado Dasher. 
+
+https://www.youtube.com/watch?v=nr3s4613DX8
+
+Nele, as letras da tela se movem em direção ao centro como se o usuário estivesse "dirigindo" por uma estrada de letras. Com um único músculo, Hawking poderia controlar se o fluxo vai para cima ou para baixo.
 
 Por que é mais rápido: Ele não precisa clicar para "parar" na letra. Ele só precisa manter o músculo contraído para ir na direção da letra certa, e as palavras vão se formando continuamente. É muito menos cansativo.
 
